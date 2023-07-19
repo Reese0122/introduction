@@ -1,0 +1,10 @@
+Connected
+>>> HTTP/1.1 200 OK
+>>> Content-Type: image/jpeg
+>>> Content-Length: 42417
+42417
+>>> Accept-Ranges: bytes
+>>> Server: HFS 2.2f
+>>> Content-Disposition: filename="ZZZZ1.jpg";
+>>> Last-Modified: Tue, 02 May 2023 08:24:41 GMT
+>>> 
